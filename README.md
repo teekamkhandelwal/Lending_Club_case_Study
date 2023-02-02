@@ -1,7 +1,8 @@
 # Lending_Club_case_Study
 **LENDING CLUB -** Lending club is a platform that provide the loan based on pepole credit profile and historical data on some interest rate.
 
-![image](https://user-images.githubusercontent.com/72481400/216401114-b7bee350-abb9-42c1-b8b8-700e27fa60a9.png)
+![image](https://user-images.githubusercontent.com/72481400/216401114-b7bee350-abb9-42c1-b8b8-700e27fa60a9.png)  
+                                     [1]
 
 # Objective\Purpose
 Purpose of this case study to provide help in taking decision of consumer financial company to approved loan or not based on persons historical data(Profile Data).
@@ -41,6 +42,8 @@ Data analysis of this case study categriesed in following steps-
   email id: prasadpathak531@gmail.com 
 * Teekam Chand Khandelwal
    email id: teekamkhandelwal@gmail.com  
-   
+  
+# Refrences
+[1] https://d3.harvard.edu/platform-digit/submission/lending-club-a-marketplace-for-loans/ 
    
 **Note:- Data used for this project persent in data folder.**
