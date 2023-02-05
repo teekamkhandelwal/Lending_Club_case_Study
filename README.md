@@ -48,19 +48,40 @@ Data analysis of this case study categriesed in following steps-
 * Pandas
 * Juipter 
 * NumPy
-* Metplotlib etc.
+* Metplotlib 
+* missingno
+* seaborn etc.
 
 
 
 
 
-# Conclusions 
+# Conclusions/Suggestions
+) Lending club shuold consider to accepting more loans request less then 10% interest rate as their probabity of charged_off is have lesser.
+
+2) Lending club shuold consider to accepting more loans request for borrowers which owning house their have lees probabilty to Charged_off.
+
+3) Lending club shuold consider to accepting more loans request for grade A respect to B C D becuase in B C D E have lots off Charged_off
+
+4) Lending club shuold consider to accepting more loans request of borrowers which have annual income gretaer then 90000 its charged_off % have nearest 10%.
+
+5) Lending club need to accept more loan for 36 month term there have less chances of charged_off and it continuously increasing year by year.
+
+6) Lending club need to accept loan which owning house, annual income have greater then 90000, interest rate is less then 10%.This combination is have less chances to charged_off.
+
+7) Lending club should accept more loan request of borrowers which one have source verified or verified. Their have less chance of charged_off.
+
+8) Lending club should accept more loan request of borrowers which one have employment experienc less then 10 years.
+
+9) Lending club should accept more loan for applied for wedding, major_purchase, car and credit_card here have chances of charged_off is less nearest 10% but for small business have 27.97% charged_off.
+
+10) Lenading club should accept the loan request for small loan amount For loan amount till 14K charged_off(nearest 13%) have low risk
+
+11) Lenading club should accept the loan request for coming from addres state IN IA and ME here having low risk of charged off.
 
 
 
-# Contributers
-* Prasad Pathak 
-  email id: prasadpathak531@gmail.com 
+# Contributer
 * Teekam Chand Khandelwal
    email id: teekamkhandelwal@gmail.com  
   
