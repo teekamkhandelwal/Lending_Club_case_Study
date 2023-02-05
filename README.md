@@ -57,7 +57,8 @@ Data analysis of this case study categriesed in following steps-
 
 
 # Conclusions/Suggestions
-) Lending club shuold consider to accepting more loans request less then 10% interest rate as their probabity of charged_off is have lesser.
+
+1) Lending club shuold consider to accepting more loans request less then 10% interest rate as their probabity of charged_off is have lesser.
 
 2) Lending club shuold consider to accepting more loans request for borrowers which owning house their have lees probabilty to Charged_off.
 
