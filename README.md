@@ -90,7 +90,7 @@ Data analysis of this case study categriesed in following steps-
 # Refrences
 [1] https://d3.harvard.edu/platform-digit/submission/lending-club-a-marketplace-for-loans/ 
    
-**Note:- **
+**Note:-**
 * Data used for this project persent in data folder.
 * PPT as a pdf is also persent in Data folder.
 * python programming file is persent in Python folder 
